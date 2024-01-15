@@ -1,1 +1,1 @@
-# architecture
+Initial Architecture for the application.
